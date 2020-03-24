@@ -1,7 +1,7 @@
 {
   "project": {
-    "name": "trybe/sd-03-block8-unit-tests",
-    "description": "trybe/sd-03-block8-unit-tests",
+    "name": "tryber/sd-03-block8-project-js-unit-tests",
+    "description": "projeto de ES6 e Testes Unitários",
     "enabled": true,
     "deadline": "2020-03-31 14:10:00",
     "requirements": [{
